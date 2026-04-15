@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Aditi Nim
 Computer Science student<br>🌱 I’m currently building projects
 
 
